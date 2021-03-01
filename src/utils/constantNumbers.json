@@ -1,0 +1,91 @@
+{
+    "names": [
+        [
+            "zero",
+            "um",
+            "dois",
+            "três",
+            "quatro",
+            "cinco",
+            "seis",
+            "sete",
+            "oito",
+            "nove"
+        ],
+        [
+            "",
+            "dez",
+            "vinte",
+            "trinta",
+            "quarenta",
+            "cinquenta",
+            "sessenta",
+            "setenta",
+            "oitenta",
+            "noventa"
+        ],
+        [
+            "",
+            "cento",
+            "duzentos",
+            "trezentos",
+            "quatrocentos",
+            "quinhentos",
+            "seiscentos",
+            "setecentos",
+            "oitocentos",
+            "novecentos"
+        ]
+    ],
+    "dozens": [
+        "dez",
+        "onze",
+        "doze",
+        "treze",
+        "quatorze",
+        "quinze",
+        "dezesseis",
+        "dezessete",
+        "dezoito",
+        "dezenove"
+    ],
+    "houses": [
+        "",
+        "mil",
+        "milhões",
+        "bilhões",
+        "trilhões",
+        "quatrilhões",
+        "quintilhões",
+        "sextilhões",
+        "septilhões",
+        "octilhões",
+        "nonilhões",
+        "decilhões",
+        "undecilhões",
+        "duodecilhões",
+        "tredecilhões"
+    ],
+    "decimalHouses": [
+        "décimo",
+        "centésimo",
+        "milésimo",
+        "décimo de milésimo",
+        "centésimo de milésimo",
+        "milionésimo",
+        "décimo de milionésimo",
+        "centésimo de milionésimo",
+        "bilionésimo",
+        "décimo de bilionésimo",
+        "centésimo de bilionésimo",
+        "trilionésimo",
+        "décimo de trilionésimo",
+        "centésimo de trilionésimo",
+        "quatrilionésimo",
+        "décimo de quatrilionésimo",
+        "centésimo de quatrilionésimo",
+        "quintilionésimo",
+        "décimo de quintilionésimo",
+        "centésimo de quintilionésimo"
+    ]
+}
