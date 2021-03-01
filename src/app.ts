@@ -11,7 +11,7 @@ app.use(routes)
 app.use(ErrorMiddleware)
 
 try {
-    app.listen(port, () => console.log(`Server running at ${port}`))
+    app.listen(port, () => console.log(`\n Server running at ${port}`))
 } catch (error) {
     console.log(error)
 }
