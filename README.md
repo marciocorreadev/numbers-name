@@ -28,12 +28,14 @@ docker-compose up
 npm install 
 npm run dev
 ```
+### Exemple Request
 
 ```sh
-Server running at: http://localhost:3000
+curl http://localhost:3000/12
 ```
-
-
+```JSON
+{"extenso":"Doze."}
+```
 ####
 
 | Method | Route |
@@ -87,13 +89,6 @@ npm run testsh
 {"extenso":"Zero vírgula cento e vinte e três mil e quatrocentos e cinquenta e seis milionésimos."}
 ```
 
-
-(optional) Third:
-
-```sh
-karma test
-```
-
 #### Building for source
 For production release:
 
@@ -101,5 +96,7 @@ For production release:
 npm run build
 npm start
 ```
+
+
 
 **Free Software, Hell Yeah!**
