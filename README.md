@@ -28,6 +28,10 @@ docker-compose up
 npm install 
 npm run dev
 ```
+### - Run with debug Vs Code
+```sh
+run debug
+```
 ### Exemple Request
 | Method | Route |
 | ------ | ------ |
