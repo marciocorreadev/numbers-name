@@ -29,19 +29,29 @@ npm install
 npm run dev
 ```
 ### Exemple Request
-
-```sh
-curl http://localhost:3000/12
-```
-```JSON
-{"extenso":"Doze."}
-```
-####
-
 | Method | Route |
 | ------ | ------ |
 | GET | http://localhost:3000/{number} |
 | GET | http://localhost:3000/ping  |
+
+```sh
+curl http://localhost:3000/12345
+```
+```JSON
+{"extenso":"Doze mil e trezentos e quarenta e cinco."}
+```
+
+```sh
+curl http://localhost:3000/ping
+```
+```JSON
+{
+  "info": "API to obtain a number name.",
+  "status": "OK",
+  "time": "02:24:32"
+}
+```
+
 
 ## Tests
 
@@ -97,6 +107,9 @@ npm run build
 npm start
 ```
 
+### Collection
+The collection for insomnia or postman is with to the project
 
+_______
 
 **Free Software, Hell Yeah!**
