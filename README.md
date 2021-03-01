@@ -61,21 +61,21 @@ npm run test
 ```
 
 -  Integers Numbers
-    `✓ You should be able to get the name of ones (49 ms)`
-    `✓ You should be able to get the name of tens (4 ms)`
-    `✓ You should be able to get the name of hundreds (14 ms)`
-    `✓ You should be able to get the name of thousands (5 ms)`
-    `✓ You should be able to get the name of ten thousands (5 ms)`
-    `✓ You should be able to get the name of hundreds thousands (3 ms)`
-    `✓ You should be able to get the name of millions (4 ms)`
-    `✓ You should be able to get the name of billions (3 ms)`
-    `✓ You should be able to get the name of trillions (3 ms)`
-    `✓ You should be able to get the name of quadrillions (3 ms)`
+    * ✓ You should be able to get the name of ones (49 ms)
+    * ✓ You should be able to get the name of tens (4 ms)
+    * ✓ You should be able to get the name of hundreds (14 ms)
+    * ✓ You should be able to get the name of thousands (5 ms)
+    * ✓ You should be able to get the name of ten thousands (5 ms)
+    * ✓ You should be able to get the name of hundreds thousands (3 ms)
+    * ✓ You should be able to get the name of millions (4 ms)
+    * ✓ You should be able to get the name of billions (3 ms)
+    * ✓ You should be able to get the name of trillions (3 ms)
+    * ✓ You should be able to get the name of quadrillions (3 ms)
 - Floating Numbers
-    `✓ You should be able to get the name of tenths (5 ms)`
-    `✓ You should be able to get the name of hundredths (7 ms)`
-    `✓ You should be able to get the name of thousandths (3 ms)`
-    `✓ You should be able to get the name of ten thousandths (3 ms)`
+    * ✓ You should be able to get the name of tenths (5 ms)
+    * ✓ You should be able to get the name of hundredths (7 ms)
+    * ✓ You should be able to get the name of thousandths (3 ms)
+    * ✓ You should be able to get the name of ten thousandths (3 ms)
     
 ### - Run with sh
 ```sh
@@ -99,7 +99,7 @@ npm run testsh
 {"extenso":"Zero vírgula cento e vinte e três mil e quatrocentos e cinquenta e seis milionésimos."}
 ```
 
-#### Building for source
+### Building for source
 For production release:
 
 ```sh
