@@ -61,7 +61,7 @@ npm run test
 ```
 
 -  Integers Numbers
-    `✓ You should be able to get the name of ones (49 ms)`
+>    `✓ You should be able to get the name of ones (49 ms)`
     `✓ You should be able to get the name of tens (4 ms)`
     `✓ You should be able to get the name of hundreds (14 ms)`
     `✓ You should be able to get the name of thousands (5 ms)`
